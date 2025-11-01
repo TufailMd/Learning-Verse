@@ -24,11 +24,11 @@ function Semester() {
         { title: "Sem", icon: <Filter7OutlinedIcon sx={{ fontSize: '4rem' }} />, isBeta: false, url: `/${courseName}/7th-sem` }];
 
     return (
-        <div className="bg-gray-50">
+        <div className="bg-gray-50 mt-14">
             <h1 className="text-4xl sm:text-5xl font-extrabold text-gray-900 mb-6">
                 Select Semester
             </h1>
-            <section className="max-w-7xl mx-auto px-6 py-20">
+            <section className="max-w-7xl mx-auto px-6 py-10">
                 <div className="grid gap-10 sm:grid-cols-2 lg:grid-cols-3 justify-items-center">
                     {courses.map((card, index) => (
                         <Card

@@ -100,7 +100,7 @@ function Contact() {
   return (
     <div className="bg-gradient-to-br from-gray-50 via-white to-gray-50 min-h-screen">
       {/* Hero Section */}
-      <section className="max-w-6xl mx-auto px-6 py-16 text-center">
+      <section className="max-w-6xl mx-auto px-6 py-10 text-center">
         <div className="inline-block mb-4">
           <div className="bg-teal-100 text-teal-700 px-4 py-2 rounded-full text-sm font-semibold">
             📬 We're Here to Help

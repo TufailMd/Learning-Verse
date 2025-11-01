@@ -15,13 +15,13 @@ function Courses() {
     { title: "B.Sc BioTechnology", icon: <CompostOutlinedIcon sx={{ fontSize: '4rem' }} />, isBeta: true, url: '/bio-tech/choose-semester' }];
 
     return (
-        <div className="bg-gray-50">
+        <div className="bg-gray-50 mt-6">
 
             <h1 className="text-4xl sm:text-5xl font-extrabold text-gray-900 mb-6">
                 Select Course
             </h1>
 
-            <section className="max-w-7xl mx-auto px-6 py-14">
+            <section className="max-w-7xl mx-auto px-6 py-10">
                 <div className="grid gap-10 sm:grid-cols-2 lg:grid-cols-3 justify-items-center">
                     {courses.map((card, index) => (
                         <Card

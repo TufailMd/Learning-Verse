@@ -9,7 +9,7 @@ function Sub() {
 
 
     return (
-        <div className="bg-gray-50">
+        <div className="bg-gray-50 mt-14">
             <h1 className="text-4xl sm:text-5xl font-extrabold text-gray-900 mb-6">
                 {title || subName}
             </h1>
