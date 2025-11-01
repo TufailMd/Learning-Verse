@@ -28,7 +28,7 @@ function About() {
     return (
         <div className="bg-gray-50 min-h-screen">
             {/* Hero Section */}
-            <section className="max-w-6xl mx-auto px-6 py-8 text-center">
+            <section className="max-w-6xl mx-auto px-6 py-14 text-center">
                 <h1 className="text-5xl sm:text-6xl font-extrabold text-gray-900 mb-6">
                     About Learnify Verse
                 </h1>

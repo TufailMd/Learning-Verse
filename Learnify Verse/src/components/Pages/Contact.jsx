@@ -347,7 +347,7 @@ function Contact() {
       </section>
 
       {/* FAQ Section */}
-      <section className="max-w-5xl mx-auto px-6 py-10 mb-16">
+      <section className="max-w-5xl mx-auto px-6 py-20 mb-16">
         <div className="bg-white rounded-2xl shadow-xl p-10 border border-gray-100">
           <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
             Quick Answers

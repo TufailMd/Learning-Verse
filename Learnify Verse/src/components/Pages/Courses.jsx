@@ -21,7 +21,7 @@ function Courses() {
                 Select Course
             </h1>
 
-            <section className="max-w-7xl mx-auto px-6 py-10">
+            <section className="max-w-7xl mx-auto px-6 py-14">
                 <div className="grid gap-10 sm:grid-cols-2 lg:grid-cols-3 justify-items-center">
                     {courses.map((card, index) => (
                         <Card
