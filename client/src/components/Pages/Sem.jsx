@@ -669,4 +669,6 @@ PYQ
     )
 }
 
-export default Sem
+export default Sem;
+
+// D:\Web Development\Session 5(Mini project)\react\LearningSM\client\src\components\Pages\Sem.jsx

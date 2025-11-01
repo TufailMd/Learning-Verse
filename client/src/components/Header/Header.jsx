@@ -4,7 +4,7 @@ import { Link, NavLink } from 'react-router-dom';
 
 function Header() {
   const navItems = [
-    { name: 'Study Material', path: '/study-material' },
+    { name: 'Study Material', path: '/choose-course' },
     { name: 'About', path: '/about' },
     { name: 'Contact', path: '/contact' },
   ];
@@ -30,10 +30,9 @@ function Header() {
               key={item.name}
               to={item.path}
               className={({ isActive }) =>
-                `text-lg font-semibold transition-colors ${
-                  isActive
-                    ? 'text-teal-700 border-b-2 border-teal-700'
-                    : 'text-gray-800 hover:text-teal-700'
+                `text-lg font-semibold transition-colors ${isActive
+                  ? 'text-teal-700 border-b-2 border-teal-700'
+                  : 'text-gray-800 hover:text-teal-700'
                 }`
               }
             >
