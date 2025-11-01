@@ -1,7 +1,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 
-function SubCard({ title, url, cards = [] }) {
+function SubCard({ title, semName = "", url, cards = [] }) {
     const navigate = useNavigate();
 
     const handleClick = (link) => {

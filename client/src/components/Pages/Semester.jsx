@@ -7,18 +7,21 @@ import Looks4OutlinedIcon from '@mui/icons-material/Looks4Outlined';
 import Looks5OutlinedIcon from '@mui/icons-material/Looks5Outlined';
 import Looks6OutlinedIcon from '@mui/icons-material/Looks6Outlined';
 import Filter7OutlinedIcon from '@mui/icons-material/Filter7Outlined';
+import Filter3Icon from '@mui/icons-material/Filter3';
 import { useParams } from 'react-router-dom';
+import Filter5Icon from '@mui/icons-material/Filter5';
+import Filter1Icon from '@mui/icons-material/Filter1';
 
 function Semester() {
     const { courseName } = useParams();
     const courses = [
-        { title: "Sem", icon: <LooksOneOutlinedIcon sx={{ fontSize: '4rem' }} />, isBeta: false, url: `/${courseName}/1st-sem` },
-        { title: "Sem", icon: <LooksTwoOutlinedIcon sx={{ fontSize: '4rem' }} />, isBeta: true, url: `/${courseName}/2nd-sem` },
-        { title: "Sem", icon: <Looks3OutlinedIcon sx={{ fontSize: '4rem' }} />, isBeta: true, url: `/${courseName}/3rd-sem` },
-        { title: "Sem", icon: <Looks4OutlinedIcon sx={{ fontSize: '4rem' }} />, isBeta: true, url: `/${courseName}tech/4th-sem` },
-        { title: "Sem", icon: <Looks5OutlinedIcon sx={{ fontSize: '4rem' }} />, isBeta: false, url: `/${courseName}/5th-sem` },
-        { title: "Sem", icon: <Looks6OutlinedIcon sx={{ fontSize: '4rem' }} />, isBeta: true, url: `/${courseName}/6th-sem` },
-        { title: "Sem", icon: <Filter7OutlinedIcon sx={{ fontSize: '4rem' }} />, isBeta: true, url: `/${courseName}/7th-sem` }];
+        { title: "Sem", icon: <Filter1Icon sx={{ fontSize: '4rem' }} />, isBeta: false, url: `/${courseName}/1st-sem` },
+        { title: "Sem", icon: <LooksTwoOutlinedIcon sx={{ fontSize: '4rem' }} />, isBeta: false, url: `/${courseName}/2nd-sem` },
+        { title: "Sem", icon: <Filter3Icon sx={{ fontSize: '4rem' }} />, isBeta: false, url: `/${courseName}/3rd-sem` },
+        { title: "Sem", icon: <Looks4OutlinedIcon sx={{ fontSize: '4rem' }} />, isBeta: false, url: `/${courseName}tech/4th-sem` },
+        { title: "Sem", icon: <Filter5Icon sx={{ fontSize: '4rem' }} />, isBeta: false, url: `/${courseName}/5th-sem` },
+        { title: "Sem", icon: <Looks6OutlinedIcon sx={{ fontSize: '4rem' }} />, isBeta: false, url: `/${courseName}/6th-sem` },
+        { title: "Sem", icon: <Filter7OutlinedIcon sx={{ fontSize: '4rem' }} />, isBeta: false, url: `/${courseName}/7th-sem` }];
 
     return (
         <div className="bg-gray-50">
