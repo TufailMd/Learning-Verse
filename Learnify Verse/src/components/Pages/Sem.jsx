@@ -317,6 +317,7 @@ function Sem() {
                     { title: "Notes & Assignment", links: "https://drive.google.com/drive/folders/1nX0kNg3Df6RqrCMXGSBr0TLaZnHd30bx?usp=drive_link", },
                     { title: "Lab Manual & VIVA ", links: "https://drive.google.com/drive/folders/1B0ZU0cchq2Ev-KIGMgM6DmAnhjUYvj3e?usp=drive_link", },
                     { title: "PYQs", links: "https://drive.google.com/drive/folders/1A1P7hPtpA0gkbnjBxLLIIN0TMtnIu3yS?usp=drive_link", },
+                    { title: "Question Bank", links: "https://drive.google.com/drive/folders/19coOB6VE76L9fNpCcN0xjSfVef2kHTIN?usp=sharing", },
                     { title: "All Material", links: "https://drive.google.com/drive/folders/1Um-JW_Wk9H-7D16GvRAnt_pSTuTrFAHu?usp=drive_link", },]
             },
 
@@ -327,6 +328,7 @@ function Sem() {
                     { title: "Notes & Assignment", links: "https://drive.google.com/drive/folders/1aC3hJPvwEUf8VoOOPESlinyAwMtKiwto?usp=drive_link", },
                     { title: "Lab Manual & VIVA ", links: "https://drive.google.com/drive/folders/150iTjvJYd_bBZ9s5otmL4ZIm2HijMbpH?usp=drive_link", },
                     { title: "PYQs", links: "https://drive.google.com/drive/folders/1QFxNRqb4l1BhYd2OfK4cbKpDKvQVf1Fr?usp=drive_link", },
+                    { title: "Question Bank", links: "https://drive.google.com/drive/folders/1l6WPUkqkbcu8w0KY7a-_kUKubadGJsRk?usp=drive_link", },
                     { title: "All Material", links: "https://drive.google.com/drive/folders/1CegjwaxXWSsW-pszFawx9MhIhkhcqL2N?usp=drive_link", },]
             },
 
@@ -334,9 +336,10 @@ function Sem() {
                 name: "Software Engineering", cards: [
                     { title: "Syllabus", links: "https://drive.google.com/drive/folders/1Lg9JpxDLrGRpGkgHyVuVcundDGPk3fJo?usp=drive_link", },
                     { title: "All Unit", links: "https://drive.google.com/drive/folders/1U2uwsHxnmLzIFSZ0N4B9R4kEmTwWP8bQ?usp=drive_link", },
-                    { title: "Notes & Assignment", links: "https://drive.google.com/drive/folders/1q8Uzeoh0nFmb-GFyVFU_pWyjdUA7Dzs8?usp=drive_link", },
-                    { title: "Lab Manual & VIVA ", links: "https://drive.google.com/drive/folders/1783KulTsb9xyZNF6kiQQuq8rETW3bj6R?usp=drive_link", },
+                    { title: "Notes & Assignment", links: "https://drive.google.com/drive/folders/1783KulTsb9xyZNF6kiQQuq8rETW3bj6R?usp=drive_link" },
+                    { title: "Lab Manual & VIVA ", links: "https://drive.google.com/drive/folders/1q8Uzeoh0nFmb-GFyVFU_pWyjdUA7Dzs8?usp=drive_link", },
                     { title: "PYQs", links: "https://drive.google.com/drive/folders/1TDc54Bw0ie4NGu5-Tr9-JVkhEIrE4dy0?usp=drive_link", },
+                    { title: "Question Bank", links: "https://drive.google.com/drive/folders/1FOaf_iJm2-zjrh7YWOblIUmT5-lDqZfw?usp=drive_link", },
                     { title: "All Material", links: "https://drive.google.com/drive/folders/1sW5moD78t1PLYkvOnyuvymot5-H_5ZZh?usp=drive_link", },]
             },
 
@@ -347,6 +350,7 @@ function Sem() {
                     { title: "Notes & Assignment", links: "https://drive.google.com/drive/folders/1fKlURsbqegHgesbeHVmhW_HjPLY7acZu?usp=drive_link", },
                     { title: "Lab Manual & VIVA ", links: "https://drive.google.com/drive/folders/1SNZO7HzNauJlQ3XuZUF1kdw9Tc7_ZgSC?usp=drive_link", },
                     { title: "PYQs", links: "https://drive.google.com/drive/folders/1QoqhTAyJc6aAT2fi_GBrX-0enjwstn7f?usp=drive_link", },
+                    { title: "Question Bank", links: "https://drive.google.com/drive/folders/1ctIYP0my49JvYustKXG4dl4drNTQ7ZJb?usp=drive_link", },
                     { title: "All Material", links: "https://drive.google.com/drive/folders/1MWUGesb_onI9p2rBdqe3dDP4LE_Aenbl?usp=drive_link", },]
             },
 
@@ -357,6 +361,7 @@ function Sem() {
                     { title: "Notes & Assignment", links: "https://drive.google.com/drive/folders/1Qjw-jNYILTJj41cJWkzQS1ZMh27sehN0?usp=drive_link", },
                     { title: "Lab Manual & VIVA ", links: "https://drive.google.com/drive/folders/11phL-8gl0YGr-AYXVtAg57ETaWZfpV83?usp=drive_link", },
                     { title: "PYQs", links: "https://drive.google.com/drive/folders/1VlLJ71CzTA4--Ko79Xm3qP848mWOotZa?usp=drive_link", },
+                    { title: "Question Bank", links: "https://drive.google.com/drive/folders/1qU1B2TEU0l-Jhg7NoffUOQMou6tDIXo0?usp=drive_link", },
                     { title: "All Material", links: "https://drive.google.com/drive/folders/1kmDxwklpJGGanP9UvR0A-axKXHHHgSww?usp=drive_link", },]
             },
 
@@ -367,18 +372,19 @@ function Sem() {
                     { title: "Notes & Assignment", links: "https://drive.google.com/drive/folders/1KsAMBhwij0j81ptA6iwCzJDs82rN0lHw?usp=drive_link", },
                     { title: "Lab Manual & VIVA ", links: "https://drive.google.com/drive/folders/163s-XX10g-Tq4lzz1Wz1avgMRM0sPsgG?usp=drive_link", },
                     { title: "PYQs", links: "https://drive.google.com/drive/folders/1TQii4SCUGMQghkCAk-R_AzFCP3eoSbws?usp=drive_link", },
+                    { title: "Question Bank", links: "https://drive.google.com/drive/folders/1QqePRUnYP7xJVDHPkAIkL9sQ9Mh3EHQ4?usp=drive_link", },
                     { title: "All Material", links: "https://drive.google.com/drive/folders/13U0L92QFv03zI9jOD9rnUeGClh3kf0b2?usp=sharing", },]
             },
 
-            // {
-            //     name: "Professionalism & Corporate Ethics", cards: [
-            //         { title: "Syllabus", links: "", },
-            //         { title: "All Unit", links: "", },
-            //         { title: "Notes & Assignment", links: "", },
-            //         { title: "Lab Manual & VIVA ", links: "", },
-            //         { title: "PYQs", links: "", },
-            //         { title: "All Material", links: "", },]
-            // },
+            {
+                name: "Professionalism & Corporate Ethics", cards: [
+                    { title: "Syllabus", links: "https://drive.google.com/drive/folders/1Q66vns_iSBHfuWdplitjignGgStfYzWr?usp=drive_link", },
+                    { title: "All Unit", links: "https://drive.google.com/drive/folders/1ULqvJXmT2VCB4t90Rmu7X7kMBSyzsK7e?usp=drive_link", },
+                    { title: "Notes & Assignment", links: "", },
+                    { title: "Lab Manual & VIVA ", links: "", },
+                    { title: "PYQs", links: "", },
+                    { title: "All Material", links: "https://drive.google.com/drive/folders/1jVa5I2YrtiIYGwww9L0IjMtFyv0Lz_-D?usp=drive_link", },]
+            },
 
             // {
             //     name: "Quant, and Reasoning", cards: [
