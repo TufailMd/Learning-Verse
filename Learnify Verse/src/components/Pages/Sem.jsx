@@ -366,7 +366,7 @@ function Sem() {
             },
 
             {
-                name: "Azure || AWS", cards: [
+                name: "Azure", cards: [
                     { title: "Syllabus", links: "https://drive.google.com/drive/folders/1tujOEjAfl9mngqdyPqLtdA_9c2KW8rey?usp=drive_link", },
                     { title: "All Unit", links: "https://drive.google.com/drive/folders/1mugojIm7-4nsbuxrANTDNcj2zF2tiqPg?usp=drive_link", },
                     { title: "Notes & Assignment", links: "https://drive.google.com/drive/folders/1KsAMBhwij0j81ptA6iwCzJDs82rN0lHw?usp=drive_link", },
@@ -374,6 +374,17 @@ function Sem() {
                     { title: "PYQs", links: "https://drive.google.com/drive/folders/1TQii4SCUGMQghkCAk-R_AzFCP3eoSbws?usp=drive_link", },
                     { title: "Question Bank", links: "https://drive.google.com/drive/folders/1QqePRUnYP7xJVDHPkAIkL9sQ9Mh3EHQ4?usp=drive_link", },
                     { title: "All Material", links: "https://drive.google.com/drive/folders/13U0L92QFv03zI9jOD9rnUeGClh3kf0b2?usp=sharing", },]
+            },
+
+            {
+                name: "AWS", cards: [
+                    { title: "Syllabus", links: "https://drive.google.com/file/d/1HSWIrh45GOYhf2RYYwz208nK4kr7P5C3/view?usp=drive_link", },
+                    { title: "All Unit", links: "https://drive.google.com/drive/folders/129VjItxzLWQQhJgixpC48aSetLmKaOJD?usp=drive_link", },
+                    { title: "Notes & Assignment", links: "https://drive.google.com/drive/folders/1pqaNxq4Cz95pr3YX3LK6gEkzN_YkJBYO?usp=drive_link", },
+                    { title: "Lab Manual & VIVA ", links: "https://drive.google.com/drive/folders/1D87927eQ98u2pOpU-SkS7i-qiE-VMcq5?usp=drive_link", },
+                    { title: "PYQs", links: "https://drive.google.com/drive/folders/1rFZ2HmUZjZZMLW5PQbp1iZPPUMf95SFR?usp=drive_link", },
+                    { title: "Question Bank", links: "https://drive.google.com/drive/folders/1LsKo06xJYxyslAJYsriVEVk2-EbC0A9l?usp=drive_link", },
+                    { title: "All Material", links: "https://drive.google.com/drive/folders/1-croFvtwmd1wFFzvhdwDohJcuc-udlxR", },]
             },
 
             {
